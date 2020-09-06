@@ -29,10 +29,14 @@ CSV Data Hurdles:
 
 
 What We Learned
--The key takeaway from this research is that economic crises have noticeable impact on important measures such as income and consumption expenditures. When people are spending money, the economy tends to flourish, but when they hold back the economy tends to contract. 
+-The key takeaway from this research is that economic crises have noticeable impact on important measures such as income and consumption expenditures. When people are spending   money, the economy tends to flourish, but when they hold back the economy tends to contract.
+
 -Personal consumption expenditures dropped in 2008, both nationwide and in Illinois.
+
 -Looking at 90 years of data showed that average personal income has been on a consistent upward trend. However, personal income dropped in 2008 and took 6 years to return to the trend line.
--Income recovery during the Great Depression took even longer to recover than the 2008 financial crisis, roughly 10-11 years. During those years, world war II occurred, and we invested in infrastructure which sowed seeds to build the economy. 
+
+-Income recovery during the Great Depression took even longer to recover than the 2008 financial crisis, roughly 10-11 years. During those years, world war II occurred, and we invested in infrastructure which sowed seeds to build the economy.
+
 -Average inflation was negative in 2009 which is typical of weakened economy. 
 
 
