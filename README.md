@@ -29,6 +29,7 @@ CSV Data Hurdles:
 
 
 What We Learned
+
 -The key takeaway from this research is that economic crises have noticeable impact on important measures such as income and consumption expenditures. When people are spending   money, the economy tends to flourish, but when they hold back the economy tends to contract.
 
 -Personal consumption expenditures dropped in 2008, both nationwide and in Illinois.
