@@ -27,6 +27,7 @@ CSV Data Hurdles:
 -Converting into a numeric
 -Converting to a Data Frame and plotting
 
+Process and plots: Please look at Presentation pwoer point file in this Project repository.
 
 What We Learned
 
