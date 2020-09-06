@@ -21,6 +21,12 @@ API Data Hurdles:
 -Transforming JSON into a Data Frame
 -Cleaning the data and transforming into numeric data for plotting
 
+CSV Data Hurdles:
+-Copying a data table from a website
+-Transforming it into a CSV via excel
+-Converting into a numeric
+-Converting to a Data Frame and plotting
+
 
 What We Learned
 -The key takeaway from this research is that economic crises have noticeable impact on important measures such as income and consumption expenditures. When people are spending money, the economy tends to flourish, but when they hold back the economy tends to contract. 
