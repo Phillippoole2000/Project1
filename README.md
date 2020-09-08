@@ -5,12 +5,17 @@ Many are looking to past financial crises to help make sense of what we’re cur
 
 Project Objectives:
 Specific questions we’re looking to answer in this research include the following:
+
 -How did personal consumption expenditures fluctuate during the most recent financial crisis of 2008 nationwide and in Illinois?
+
 -Are there any noticeable recovery trends in average personal income across the U.S. for the two specific economic crises (Great Depression and Financial Crisis of 2008)?
+
 -How did inflation rates fluctuate in the past 25 years?
 
+
 Resources : 
-	Bureau of Economic Analyses – U.S. Department of Commerce (API)
+
+	-Bureau of Economic Analyses – U.S. Department of Commerce (API)
 	www.bea.gov
 	Historical Inflation Rates (CSV)
 	www.inflationdata.com
